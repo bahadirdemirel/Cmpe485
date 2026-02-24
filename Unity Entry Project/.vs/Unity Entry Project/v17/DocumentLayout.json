@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|c:\\users\\a\\desktop\\cmpe485\\cmpe485\\unity entry project\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|c:\\users\\a\\desktop\\cmpe485\\cmpe485\\unity entry project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|c:\\users\\a\\desktop\\cmpe485\\cmpe485\\unity entry project\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6E64A40-9BE1-0EDB-D380-D23CEDC0F658}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:56:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ForceApplier.cs",
               "DocumentMoniker": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\Assets\\Scripts\\ForceApplier.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ForceApplier.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ObjectSpawner.cs",
               "DocumentMoniker": "C:\\Users\\a\\Desktop\\Cmpe485\\Cmpe485\\Unity Entry Project\\Assets\\Scripts\\ObjectSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
@@ -59,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T11:52:36.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T11:52:36.899Z"
             }
           ]
         }
