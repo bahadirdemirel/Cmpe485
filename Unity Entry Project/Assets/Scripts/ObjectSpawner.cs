@@ -13,7 +13,7 @@ public class ObjectSpawner : MonoBehaviour
             Instantiate(cubePrefab, transform.position, Quaternion.identity);
         }
 
-        if (Input.GetKeyDown(KeyCode.S))
+        if (Input.GetKeyDown(KeyCode.X))
         {
             Instantiate(spherePrefab, transform.position, Quaternion.identity);
         }
